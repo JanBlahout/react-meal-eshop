@@ -14,7 +14,6 @@ const MealItem = props => {
       amount: amount,
       price: props.price,
     });
-    console.log(cartCtx);
   };
   const cartCtx = useContext(CartContext);
   return (
