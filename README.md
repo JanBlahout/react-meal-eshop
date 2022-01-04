@@ -13,7 +13,7 @@ How to work with data - arrays and objects.
 
 Modal window popup when clickedo on Cart.
 When there are on items in cart, there is no order button (conditional output).
-Modal window can be closed by clicking on backdrop or on the button.
+Modal window can be closed by clicking on backdrop or on the button. Modal window is portaled to the top of the index.html
 
 
 ## Live Site
