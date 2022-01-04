@@ -14,3 +14,4 @@ How to work with data - arrays and objects.
 
 
 ## Live Site
+https://stoic-meninsky-27aa85.netlify.app/
